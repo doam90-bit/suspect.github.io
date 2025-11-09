@@ -1,7 +1,5 @@
 ## 🧠 Userscript
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdBJpZkLRt_VlhPo-L20hybupJ6S5acc6VMyMsU2nHbaxmUbw/viewform?embedded=true" width="640" height="813" frameborder="0" marginheight="0" marginwidth="0">Загрузка…</iframe>
-
 Скрипт для CSStats.gg автоматически переключает сайт на русский язык, проверяет Steam ID игрока по JSON-базе с GitHub, показывает статус и причину подозрительности, добавляет ссылки на Steam и Faceit, и предлагает форму для добавления новых ID через Google Form.
 
 ### 🔧 Возможности:
